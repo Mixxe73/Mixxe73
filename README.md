@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @Mixxe73
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Mixxe73/Mixxe73 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Alexander Mikheev
+- 👀 I’m interested in programming (PYTHON, C#)
+- 🌱 I’m currently learning in College of Economics and Informatics. A.N. Afanasyeva (http://kei.ulstu.ru/)
+- ⭐ I am 16 years old
