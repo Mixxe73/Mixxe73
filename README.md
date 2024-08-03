@@ -1,6 +1,6 @@
-🚀 Last update info - 02.07.24
+🚀 Last update info - 04.08.24
 ## ☁️ Workspace
- - OS: [**`Arch Linux`**](https://archlinux.org/)
+ - OS: [**`Arch Linux`**](https://archlinux.org/) && **`Windows`** && **`MacOS`**
  - WM: [**`BSPWM`**](https://github.com/baskerville/bspwm)
 ## ⚡ Technologies
 
