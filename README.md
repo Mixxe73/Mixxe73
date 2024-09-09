@@ -1,14 +1,13 @@
-🚀 Last update info - 04.08.24
+🚀 Last update info - 09.09.24
 ## PHP Developer
 LARAVEL / NATIVE
+![php](https://github.com/user-attachments/assets/2b23ef93-5223-444d-874f-546eeddcc5a6)
 
 ## ☁️ Workspace
  - OS: [**`Arch Linux`**](https://archlinux.org/) && **`Windows`** && **`MacOS`**
  - WM: [**`BSPWM`**](https://github.com/baskerville/bspwm)
-![php](https://github.com/user-attachments/assets/2b23ef93-5223-444d-874f-546eeddcc5a6)
 
 ## ⚡ Technologies
-
 ![PHP](https://img.shields.io/badge/-PHP-336791?style=flat-square&logo=PHP)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
