@@ -1,6 +1,3 @@
-🚀 Last update info - 09.09.24
-## PHP Developer
-LARAVEL / NATIVE
 ![php](https://github.com/user-attachments/assets/2b23ef93-5223-444d-874f-546eeddcc5a6)
 
 ## ☁️ Workspace
