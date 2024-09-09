@@ -1,7 +1,12 @@
 🚀 Last update info - 04.08.24
+## PHP Developer
+LARAVEL / NATIVE
+
 ## ☁️ Workspace
  - OS: [**`Arch Linux`**](https://archlinux.org/) && **`Windows`** && **`MacOS`**
  - WM: [**`BSPWM`**](https://github.com/baskerville/bspwm)
+![php](https://github.com/user-attachments/assets/2b23ef93-5223-444d-874f-546eeddcc5a6)
+
 ## ⚡ Technologies
 
 ![PHP](https://img.shields.io/badge/-PHP-336791?style=flat-square&logo=PHP)
